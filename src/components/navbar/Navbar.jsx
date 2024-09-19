@@ -23,7 +23,7 @@ const Navbar = () => {
           <img src="./facebook.png" alt="my image" />
           </a>
           <a href="https://www.linkedin.com/in/ethan-gibson-booth/">
-            <img src="/linkedIn.png" alt="" />
+            <img src="./linkedIn.png" alt="" />
           </a>
         </div>
       </div>
